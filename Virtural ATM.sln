@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtural ATM", "Virtural ATM\Virtural ATM.csproj", "{4921C084-E529-4B76-BD8D-851E559501D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4921C084-E529-4B76-BD8D-851E559501D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4921C084-E529-4B76-BD8D-851E559501D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4921C084-E529-4B76-BD8D-851E559501D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4921C084-E529-4B76-BD8D-851E559501D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BAC819F-2593-40C7-AB6E-02EEB28D41A3}
+	EndGlobalSection
+EndGlobal
